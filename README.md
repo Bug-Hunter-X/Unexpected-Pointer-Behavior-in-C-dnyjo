@@ -1,0 +1,1 @@
+This repository showcases a common C programming error related to pointer manipulation. The 'bug.c' file contains code that unexpectedly modifies a variable's value through a pointer. The 'bugSolution.c' file demonstrates the correct handling of pointers and addresses in C.  The README provides a detailed explanation of the bug, its cause, and its resolution.
